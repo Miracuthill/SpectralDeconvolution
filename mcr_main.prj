@@ -1,0 +1,182 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="3399260589" file="C:\Users\mirac\OneDrive\Desktop\SolarSPEC\mcr_toolbox2_updated_070721\mcr_main.prj" location="C:\Users\mirac\OneDrive\Desktop\SolarSPEC\mcr_toolbox2_updated_070721" name="mcr_main" target="target.mlapps" target-name="Package App">
+    <param.appname>mcr_main</param.appname>
+    <param.authnamewatermark />
+    <param.email />
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary />
+    <param.description />
+    <param.screenshot />
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>C:\Users\mirac\OneDrive\Desktop\SolarSPEC</param.output>
+    <param.guid>07fb7ba5-c2bc-496b-b33e-2b0ad9c42a31</param.guid>
+    <unset>
+      <param.authnamewatermark />
+      <param.email />
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.summary />
+      <param.description />
+      <param.screenshot />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\mcr_main.m</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\als2013.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\als2013.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\als2013fast.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\als2013fast.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\als_info.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\als_info.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\als_parameters.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\als_parameters.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\als_parameters_reload.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\als_parameters_reload.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\als_res.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\als_res.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\alsOptimization.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\bilinear_info.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\bilinear_info.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\clas3way.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\clas3way.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\closure.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\closure_no.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\closure_no.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\columnModeConstraints.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\columnModeConstraints.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\columnMultiConstraints.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\columnMultiConstraints.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\correlation_info.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\correlation_info.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\correlCons.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\correlCons.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\correlCons_reload.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\correlCons_reload.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\efagui.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\efagui.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\eq2mat_hard.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\fnnls.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\hline.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\images_info.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\images_info.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\images_plots.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\images_plots.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\interesp.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\kin_help.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\kin_help.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\kinetic_info.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\kinetic_info.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\KineticCred.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\KineticCred.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\kineticHM.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\kineticHM.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\kineticHM_multi.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\kineticHM_multi.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\manComp.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\manComp.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\manEst.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\manEst.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\applicons.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\applicons.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\change_opt_param.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\change_opt_param.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\fmaxmin.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\mcrbands_fr.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\mcrbands_fr.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\mcrbandsg_connected.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\mcrbandsg_connected.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\mycons.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\norm_old.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\norm_old.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\normgui.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\normgui.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\normgui_old.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\normgui_old.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\push_isp.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\push_isp.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\tconv.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\unimodg.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\valueg.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\valueg.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\valueg_old.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\valueg_old.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\view_csel.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mcrbandsC\view_csel.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\mlpca.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\multiway_parameters.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\multiwayC.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\multiwayC.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\nglmglob.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\normv2.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\normv3.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\opt_kinglob.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\optim_info.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\optim_info.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\pcarep.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\plot_dades.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\plot_dades.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\puregui.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\puregui.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\quadril.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\quadrilinear_info.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\quadrilinear_info.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\rcalcglob.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\rowModeConstraints.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\rowModeConstraints.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\rowMultiConstraints.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\rowMultiConstraints.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\svd_selection.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\svd_selection.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\svdgui.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\svdgui.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\trilin.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\trilinear_info.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\trilinear_info.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\tuck2.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\unimod.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\weighted.fig</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\weighted.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\wmat.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\ALS routines\yregrnew.m</file>
+      <file>${PROJECT_ROOT}\mcr_toolbox2\mcr_main.fig</file>
+    </fileset.depfun>
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="C:\Users\mirac\OneDrive\Desktop" name="SolarSPEC" optional="false">C:\Users\mirac\OneDrive\Desktop\SolarSPEC</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2022b</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>

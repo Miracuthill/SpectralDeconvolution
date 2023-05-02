@@ -1,0 +1,209 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="2078501611" file="C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\NewAppFIles\mcr_main_App.prj" location="C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\NewAppFIles" name="mcr_main_App" target="target.mlapps" target-name="Package App">
+    <param.appname>mcr_main_App</param.appname>
+    <param.authnamewatermark>Mira Cuthill</param.authnamewatermark>
+    <param.email />
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary />
+    <param.description />
+    <param.screenshot>C:\Users\mirac\AppData\Local\Temp\tp9ceefd72_7fd2_4466_88b3_a8a2fbbbb71d.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution</param.output>
+    <param.guid>d1951b32-e129-4761-a929-8b57780afe9f</param.guid>
+    <unset>
+      <param.email />
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.summary />
+      <param.description />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\mcr_main_App.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\als2013_App.mlapp</file>
+      <file>${PROJECT_ROOT}\als2013fast_App.mlapp</file>
+      <file>${PROJECT_ROOT}\als_info_App.mlapp</file>
+      <file>${PROJECT_ROOT}\als_parameters_App.mlapp</file>
+      <file>${PROJECT_ROOT}\als_parameters_reload_App.mlapp</file>
+      <file>${PROJECT_ROOT}\als_res_App.mlapp</file>
+      <file>${PROJECT_ROOT}\clas3way_App.mlapp</file>
+      <file>${PROJECT_ROOT}\closure_no_App.mlapp</file>
+      <file>${PROJECT_ROOT}\columnModeConstraints_App.mlapp</file>
+      <file>${PROJECT_ROOT}\columnMultiConstraints_App.mlapp</file>
+      <file>${PROJECT_ROOT}\ConstraintInfo.mlapp</file>
+      <file>${PROJECT_ROOT}\ConstraintSettings.mlapp</file>
+      <file>${PROJECT_ROOT}\correlCons_App.mlapp</file>
+      <file>${PROJECT_ROOT}\correlCons_reload_App.mlapp</file>
+      <file>${PROJECT_ROOT}\efagui_App.mlapp</file>
+      <file>${PROJECT_ROOT}\Formula.png</file>
+      <file>${PROJECT_ROOT}\Functions\alsOptimization_App.m</file>
+      <file>${PROJECT_ROOT}\Functions\Iters.m</file>
+      <file>${PROJECT_ROOT}\help-circle-regular-24.png</file>
+      <file>${PROJECT_ROOT}\info-circle-regular-24.png</file>
+      <file>${PROJECT_ROOT}\kin_help_App.mlapp</file>
+      <file>${PROJECT_ROOT}\kineticHM_App.mlapp</file>
+      <file>${PROJECT_ROOT}\kineticHM_multi_App.mlapp</file>
+      <file>${PROJECT_ROOT}\manComp_App.mlapp</file>
+      <file>${PROJECT_ROOT}\manEst_App.mlapp</file>
+      <file>${PROJECT_ROOT}\mcr_help.mlapp</file>
+      <file>${PROJECT_ROOT}\mcrbandsC\applicons_App.mlapp</file>
+      <file>${PROJECT_ROOT}\mcrbandsC\change_opt_param_App.mlapp</file>
+      <file>${PROJECT_ROOT}\mcrbandsC\fmaxmin_App_Fcn.m</file>
+      <file>${PROJECT_ROOT}\mcrbandsC\mcrbands_fr_App.mlapp</file>
+      <file>${PROJECT_ROOT}\mcrbandsC\mycons_Fcn.m</file>
+      <file>${PROJECT_ROOT}\mcrbandsC\norm_old_App.mlapp</file>
+      <file>${PROJECT_ROOT}\mcrbandsC\normgui_App.mlapp</file>
+      <file>${PROJECT_ROOT}\mcrbandsC\normgui_old_App.mlapp</file>
+      <file>${PROJECT_ROOT}\mcrbandsC\push_isp_App.mlapp</file>
+      <file>${PROJECT_ROOT}\mcrbandsC\tconv_App_Fcn.m</file>
+      <file>${PROJECT_ROOT}\mcrbandsC\valueg_App.mlapp</file>
+      <file>${PROJECT_ROOT}\mcrbandsC\valueg_old_App.mlapp</file>
+      <file>${PROJECT_ROOT}\mcrbandsC\view_csel_App.mlapp</file>
+      <file>${PROJECT_ROOT}\mcrbandsg_connected_App.mlapp</file>
+      <file>${PROJECT_ROOT}\multiwayC_App.mlapp</file>
+      <file>${PROJECT_ROOT}\optim_info_App.mlapp</file>
+      <file>${PROJECT_ROOT}\plot_dades_App.mlapp</file>
+      <file>${PROJECT_ROOT}\puregui_App.mlapp</file>
+      <file>${PROJECT_ROOT}\rowModeConstraints_App.mlapp</file>
+      <file>${PROJECT_ROOT}\rowMultiConstraints_App.mlapp</file>
+      <file>${PROJECT_ROOT}\svdgui_App.mlapp</file>
+      <file>${PROJECT_ROOT}\weighted_App.mlapp</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\als_info.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\als_info.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\als_parameters.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\als_parameters.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\als_parameters_reload.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\als_parameters_reload.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\als_res.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\als_res.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\alsOptimization.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\bilinear_info.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\bilinear_info.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\clas3way.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\clas3way.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\closure.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\closure_no.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\closure_no.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\columnModeConstraints.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\columnModeConstraints.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\columnMultiConstraints.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\columnMultiConstraints.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\correlation_info.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\correlation_info.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\correlCons.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\correlCons.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\correlCons_reload.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\correlCons_reload.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\eq2mat_hard.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\fnnls.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\hline.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\images_info.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\images_info.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\images_plots.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\images_plots.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\interesp.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\kin_help.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\kin_help.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\kinetic_info.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\kinetic_info.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\KineticCred.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\KineticCred.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\kineticHM.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\kineticHM.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\kineticHM_multi.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\kineticHM_multi.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\applicons.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\applicons.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\change_opt_param.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\change_opt_param.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\fmaxmin.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\mcrbands_fr.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\mcrbands_fr.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\mcrbandsg_connected.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\mcrbandsg_connected.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\mycons.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\norm_old.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\norm_old.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\normgui.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\normgui.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\normgui_old.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\normgui_old.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\push_isp.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\push_isp.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\tconv.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\unimodg.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\valueg.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\valueg.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\valueg_old.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\valueg_old.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\view_csel.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mcrbandsC\view_csel.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\mlpca.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\multiway_parameters.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\multiwayC.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\multiwayC.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\nglmglob.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\normv2.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\normv3.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\opt_kinglob.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\optim_info.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\optim_info.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\pcarep.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\quadril.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\quadrilinear_info.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\quadrilinear_info.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\rcalcglob.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\rowModeConstraints.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\rowModeConstraints.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\rowMultiConstraints.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\rowMultiConstraints.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\svd_selection.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\svd_selection.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\trilin.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\trilinear_info.fig</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\trilinear_info.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\tuck2.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\unimod.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\wmat.m</file>
+      <file>C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution\OrigionalGUIDEApp\mcr_toolbox2\ALS routines\yregrnew.m</file>
+    </fileset.depfun>
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="C:\Users\mirac\OneDrive\Desktop\SolarSPEC" name="SpectralDeconvolution" optional="false">C:\Users\mirac\OneDrive\Desktop\SolarSPEC\SpectralDeconvolution</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2022b</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
